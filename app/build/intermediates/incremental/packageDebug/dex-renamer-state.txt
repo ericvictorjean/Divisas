@@ -1,0 +1,7 @@
+#Tue Feb 21 09:20:24 CET 2017
+base.0=/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd95a1bdef47f3a3a9e5432aed9e9ca1e97791a8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0165a879777ca8c5790ad27e17139f95bb64ae07/classes.dex
+base.1=/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0165a879777ca8c5790ad27e17139f95bb64ae07
+file.0=/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd95a1bdef47f3a3a9e5432aed9e9ca1e97791a8/classes.dex

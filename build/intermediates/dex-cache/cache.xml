@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_d0787be27575d1cb349ffec823153771060f7a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_f7aca1cde619406c5110ddb3d88876b1c157cfd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_4538dcd3efff70bb513252ffb411071cd5f90a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_b277d0668a12398e9b0566840e05cf74ae03f11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_2a0650bd1a5c96c7a7befd0f35fd80c07223e1dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_9e7e1e899eb659f7556b8dbdb50526ade889eeaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_cdc17fd859c8ae421c0f7a22f0423c9e44f55450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11b1bd871a1f57a1bebd9c56d1c1fe7136532b81">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd95a1bdef47f3a3a9e5432aed9e9ca1e97791a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_7b4e928d87d0886121e448cfeb27e0b51f3ccfdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_4297745d61d2c571b22efa4c4b2d815ca56ff0e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_7493181ff935b65b211d91517238119f37c1e7e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_abed9cf8fa3389f618c3b5140511c51e4ce62361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_66ce6352bb0cd413c8d344f3a9c57975da2e9594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f05e6cb1280e188f1db75ae34904f6b83b4f64">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0165a879777ca8c5790ad27e17139f95bb64ae07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c27226ca8fe6fb30f55069264a3786fc04616780">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2bc0ca1ef800095f88fb0ad58875fbb079a4d206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d41ddf565b06e61b455ed12b91d72e43e8bdffe2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f3ba069d3012f322058e2ce9f27cee9b63ecda6">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_116c8ac947e87277466f8330ebb646dfe48685ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_5a80c26c351649e7e09d047d41b635d15f2db5c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_fdf1ef84033301f7144dd7052f4dc395290a1167/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_4cba71df6e6e92c43fc344753ed60371ff807495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_373d9319fde48e7381fd7fb248147d15797d118d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/earaujgi7.alumnes/Escriptori/Carpeta nova/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_f6eae79964224b08d6383fd7515d3b6e93ca0e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/earaujgi7.alumnes/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_87ddee2d1e2059b4e5c9b96323faaf4ed467bf80/classes.dex" />
+    </item>
+
+</items>
